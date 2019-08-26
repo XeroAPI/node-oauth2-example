@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "openid-client": "^2.x",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

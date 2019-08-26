@@ -1,0 +1,7 @@
+{
+  "CLIENT_ID" : "XXXX",
+  "CLIENT_SECRET": "XXXX",
+  "SCOPES": "openid profile email accounting.transactions accounting.settings offline_access",
+  "REDIRECT_URL": "http://localhost:5000/callback"
+}
+
