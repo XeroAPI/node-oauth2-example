@@ -1,5 +1,14 @@
 # readme
 
+NOTE * THIS APP IS NO LONGER MAINTAINED. 
+
+If you are looking for xero-node sample app & example SDK API usage please visit: https://github.com/XeroAPI/xero-node-oauth2-app.
+
+This App simply shows how to connect to Xero's api without an SDK in javascript
+
+---------
+
+
 This is a simple example of accessing Xero's API via OAuth2 in node with a generic OpenId Connect (OIDC) client and http request client.
 
 It demonstrates how to:
