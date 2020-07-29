@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "node_demo",
   "version": "",
   "dependencies": {
     "express": "^4.17.1",
