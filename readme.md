@@ -1,6 +1,6 @@
-# readme
+# Node OAuth2 Example
 
-NOTE * THIS APP IS NO LONGER MAINTAINED. 
+NOTE * This app demonstrates how to make raw API calls with the use of Xero's node SDK.
 
 If you are looking for xero-node sample app & example SDK API usage please visit: https://github.com/XeroAPI/xero-node-oauth2-app.
 
